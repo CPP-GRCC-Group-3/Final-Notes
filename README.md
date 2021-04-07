@@ -8,7 +8,7 @@ Ideas of Things to Add:
 
 Mandatory:
 •	Email to us
-o	Must use QDesktopServices
+  o	Must use QDesktopServices
 •	Status Bar file location?
 •	MEMORY LEAKS
 •	COMMENT
